@@ -1,0 +1,15 @@
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\Isomorfos.exe
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\Isomorfos.deps.json
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\Isomorfos.runtimeconfig.json
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\Isomorfos.dll
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\ref\Isomorfos.dll
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\bin\Debug\net6.0\Isomorfos.pdb
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.csproj.AssemblyReference.cache
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.AssemblyInfoInputs.cache
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.AssemblyInfo.cs
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.csproj.CoreCompileInputs.cache
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.dll
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\ref\Isomorfos.dll
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.pdb
+C:\Users\paco2\Desktop\Intentos prueba\2do\Isomorfos\obj\Debug\net6.0\Isomorfos.genruntimeconfig.cache

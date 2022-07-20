@@ -48,8 +48,8 @@ cuatrol.AddChild(ochol, true);
 
 cincol.AddChild(diezl, true);
 
-dosl.AddChild(cuatrol, true);
-dosl.AddChild(cincol, false);
+dosl.AddChild(cuatrol, false);
+dosl.AddChild(cincol, true);
 
 tresl.AddChild(seisl, true);
 tresl.AddChild(sietel, false);
